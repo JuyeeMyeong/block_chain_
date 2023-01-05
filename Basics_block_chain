@@ -1,5 +1,11 @@
 _ Blockchain _: a distributed database or ledger that is shared among the nodes of a computer network.
             It stores information electronically in digital format, mainly used in cryptocurrency systems for maintaining a secure and decentralized record of transactions.
             It guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party to avoid double-spending.
-            
+            Here, the third party is a middle-main like a bank or government that intervenes in a transaction between the sender and recipient who are able to share the sensitive data they collect about you.
+    
+_ The Oracle Problem _: Blockchain itself cannot interact with the real world data and events.
+_ Blockchain Oracle _: Any device that interacts with the off-chain world to provide external data or computation to smart contracts.
+_ Decentralized Oracle Network _: As we cannot work with single oracle, we need decentralized oracle network which enables the creation of hybrid smart contracts, where on-chain code and off-chain infrastructure are combined to support advanced decentralized applications (dApps) that react to real-world events and interoperate with traditional systems.
+
+_ Bit Coin by Satoshi Nakamoto _: 
             
