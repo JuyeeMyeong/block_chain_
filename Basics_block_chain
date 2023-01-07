@@ -37,5 +37,5 @@ _ DAOs _: Decentralized Autonomous Organizations are groups that are governed co
 
 _ NFTs _: Non Fungible Tokens which can be described as digital art or just a unique asset.
 
-_ Hash Algorithm_: 
-_Digital Signature Algorithm _: creating a message signature with a private key that somebody cannot derive from your signature
+_ Hashing Algorithm_: a mathematical function that garbles data and makes it unreadable
+_Digital Signature Algorithm _: a cryptographic algorithm used to generate digital signatures
